@@ -6,15 +6,6 @@ import (
     "github.com/sijms/go-ora/v2"
 )
 
-// user: kory.gauger
-// pass: kscy0BoQFCRUlwPbtEBHwF23
-
-// user: hughesj
-// pass: XN5W1m6oAfYYzwBaSazGVm48
-
-// user: liammckenna
-// pass: Al1pbtGYNz8xHXRl4d3eCPAy
-
 var dbparams = map[string]string { 
     "username": "hughesj",
     "server": "oracle.cise.ufl.edu",
